@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ride / North Carolina</title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="all.css">
+	<link rel="stylesheet" type="text/css" href="ImageGalleryStyling.css">
+  <script src="https://kit.fontawesome.com/e794fe6809.js"></script>
+</head>
+<body>
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">    
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2" aria-expanded="false">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                   </button>
+                  <a class="navbar-brand" href="#"><i class="fas fa-bicycle"></i>Ride / North Carolina</a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+                  <ul class="nav navbar-nav">
+                          <li><a href="">About</a></li>    
+                          <li><a href="">Contact Us</a></li>    
+                  </ul> 
+                  <ul class="nav navbar-nav navbar-right">
+                          <li><a href="">Signup</a></li>    
+                          <li><a href="">Login</a></li>    
+                  </ul>
+                </div>
+            </div>
+        </nav>
+		<div class="container">
+			<div class="jumbotron">
+			<!--<img src="https://images.unsplash.com/photo-1523357585206-175e971f2ad9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80">--><h1><i class="fas fa-bicycle"></i>Ride / North Carolina</h1>
+			<p>Cycling adventures around the world</p>
+			</div>
+			<div class="row">
+				<div class="col-lg-4 col-md-6  thumbnail"><img src="https://images.unsplash.com/photo-1510594802-6d2e1c79bb47?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"></div>
+				<div class="col-lg-4 col-md-6  thumbnail"><img src="https://images.unsplash.com/photo-1446770147694-1bb7cf6d54a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1059&q=80"></div>
+				<div class="col-lg-4 col-md-6  thumbnail"><img src="https://images.unsplash.com/photo-1453402524241-409afa47033b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"></div>
+			</div>
+		</div>
+		
+
+ <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity=" sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html><img src="">
